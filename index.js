@@ -28,3 +28,5 @@ var StoreLab = function StoreLab() {
     Object.assign(_this.state, newMergeData);
   };
 };
+
+module.exports = StoreLab;

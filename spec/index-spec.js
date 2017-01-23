@@ -1,6 +1,6 @@
 /* globals describe, it, expect */
 
-const StoreLab = require('./../lib/index.js');
+const StoreLab = require('./../index.js');
 
 describe('lspi basics', () => {
   it('can has a default store and actions', () => {
