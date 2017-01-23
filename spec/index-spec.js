@@ -1,3 +1,4 @@
+/* eslint linebreak-style: ["error", "windows"] */
 /* globals describe, it, expect */
 
 const StoreLab = require('./../index.js');
