@@ -1,0 +1,29 @@
+{
+  "name": "store-lab",
+  "version": "1.0.0",
+  "description": "JavaScript State Tree",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine",
+    "watch": "babel --watch lib/index.js --out-file index.js --presets=latest",
+    "prep": "babel lib/index.js --out-file index.js --presets=latest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/selfup/StoreLab.git"
+  },
+  "author": "Regis Jean-Pierre Boudinot (selfup)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/selfup/StoreLab/issues"
+  },
+  "homepage": "https://github.com/selfup/StoreLab#readme",
+  "devDependencies": {
+    "babel-cli": "^6.18.0",
+    "babel-preset-latest": "^6.16.0",
+    "eslint": "^3.14.0",
+    "eslint-config-airbnb-base": "^11.0.1",
+    "eslint-plugin-import": "^2.2.0",
+    "jasmine": "^2.5.2"
+  }
+}
