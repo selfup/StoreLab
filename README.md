@@ -1,4 +1,4 @@
-# StoreLab
+# VueStoreLab
 
 JavaScript State Tree!
 
