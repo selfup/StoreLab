@@ -19,7 +19,3 @@ You might need a polyfill for `Object.assign` :joy:
 ### Example
 
 To run the example: `node ./example/simple.js`
-
-### DISCLAIMER
-
-This is a continuation of reegux/vue-reegux/controllux
