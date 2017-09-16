@@ -1,7 +1,7 @@
 /* eslint-disable no-param-reassign, linebreak-style */
 /* globals describe, it, expect */
 
-const StoreLab = require('./../index.js');
+const StoreLab = require('./../lib/index.js');
 
 describe('StoreLab', () => {
   const appState = {
